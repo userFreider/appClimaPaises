@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Krub:wght@400;500;600;700&family=Montserrat:wght@200;400;500;700&family=Open+Sans:ital,wght@0,400;0,600;0,700;0,800;1,500;1,600&family=PT+Sans:wght@400;700&display=swap');
+
+
+
+.bg-color {
+    background-color: rgb(187, 189, 192);
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: rgb(114, 114, 133);
+}
+
